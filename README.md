@@ -7,9 +7,11 @@ Este proyecto de mecatrónica consiste en la creación de una planta robótica i
 
 Bosquejos iniciales:
 
+Ambos diseños iniciales consisten en generar un movimiento de apertura y cierre de la mandíbula por medio de un mecanismo de 3 barras o bielas. En el primer bosquejo se considera utilizar un motor paso a paso o un motor DC, mientras que en el segundo bosquejo se plantea usar un servomotor.
 
+<img width="839" alt="Captura de pantalla 2024-07-08 a la(s) 1 18 10 a  m" src="https://github.com/javierita11/Mecatronica/assets/167661867/945303e5-c617-44e0-98a2-4f92b687ce70">
 
 Diseño final:
 
-
+El diseño final realizado es mediante un servomotor.
 ![IMG_1383](https://github.com/javierita11/Mecatronica/assets/167661867/73966160-e5ba-434d-8224-a1dbd4c59bcc)
