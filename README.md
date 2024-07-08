@@ -12,3 +12,4 @@ Bosquejos iniciales:
 Diseño final:
 
 
+![IMG_1383](https://github.com/javierita11/Mecatronica/assets/167661867/73966160-e5ba-434d-8224-a1dbd4c59bcc)
