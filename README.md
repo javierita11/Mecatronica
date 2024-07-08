@@ -15,5 +15,9 @@ Ambos diseños iniciales consisten en generar un movimiento de apertura y cierre
 
 Diseño final:
 
+<img width="532" alt="Captura de pantalla 2024-07-08 a la(s) 1 23 47 a  m" src="https://github.com/javierita11/Mecatronica/assets/167661867/4c2d1e83-2f81-44c3-88db-04d9f18b330c">
+
 El diseño final realizado es mediante un servomotor.
 ![IMG_1383](https://github.com/javierita11/Mecatronica/assets/167661867/73966160-e5ba-434d-8224-a1dbd4c59bcc)
+
+
